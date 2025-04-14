@@ -3,31 +3,31 @@ const Timeline = () => {
     {
       title: "Project Proposal",
       description: "Initial concept development and feasibility analysis. Team formation and project planning with faculty supervision.",
-      date: "September 2023",
+      date: "March 2025",
       icon: "fa-file-alt",
       iconText: "Proposal Documentation",
       right: true
     },
     {
       title: "Prototype Development",
-      description: "Building the initial hardware setup, programming the microcontrollers, and designing the LED display pattern.",
-      date: "November 2023",
+      description: "Building the initial hardware setup, testing the connection between capacitive sensors, and exploring implementation strategies using physical components.",
+      date: "March 2025",
       icon: "fa-microchip",
       iconText: "Prototype Development",
       right: false
     },
     {
-      title: "User Testing",
-      description: "Conducting tests with volunteers to refine the interaction experience and improve the visual display.",
-      date: "February 2024",
-      icon: "fa-users-cog",
-      iconText: "User Testing Session",
+      title: "Final Assembly",
+      description: "Putting the final parts together, building the complete LED board, and integrating the touch-sensitive globes.",
+      date: "April 2025",
+      icon: "fa-tools",
+      iconText: "Assembly Phase",
       right: true
     },
     {
       title: "Final Demo",
-      description: "Public installation at Love Park, Toronto, showcasing the completed project to the community.",
-      date: "April 2024",
+      description: "Public installation at Bahen, showcasing the completed project to the community.",
+      date: "April 25, 2025 (3:00 PM – 6:00 PM)",
       icon: "fa-star",
       iconText: "Final Demo Presentation",
       right: false
