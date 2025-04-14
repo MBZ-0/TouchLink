@@ -1,0 +1,30 @@
+Build a modern, responsive one-page website for our University of Toronto CSC490 capstone project called "TouchLink."
+
+TouchLink is an interactive public installation using capacitive sensing: two people hold hands and each touches a globe. Their connection triggers a beautiful LED animation that lights up to symbolize human connection through touch and technology.
+
+The LED display is a large panel with a minimal dot-matrix design. It features:
+- Toronto landmarks like the CN Tower and Rogers Centre
+- A glowing heart at the center with concentric circles rippling outward
+- A couple holding hands under a tree
+- Light waves beneath them to represent flow and connection
+
+We plan to install and demo this project at **Love Park in Toronto**, a public urban park known for its symbolism and open community space.
+
+The site should include:
+
+- A full-width hero section with the project name "TouchLink", a tagline like "Where Human Touch Powers Light", and a background image placeholder
+- An About section describing the project’s purpose and how it works (use placeholder text)
+- A section titled “How It Works” with icons or illustrations showing the steps: Touch the globes → Hold hands → Watch the light show
+- A section showcasing our LED panel design sketch (add a placeholder image and caption explaining the concept)
+- A “Project Timeline” section showing our development journey (Proposal, Prototype, User Testing, Final Demo). Each timeline item should include a short description and an image placeholder
+- A Team section for 3 members:
+   - Placeholder Student – Developer & Hardware Integration
+   - Placeholder Student – User Testing & Documentation
+   - Placeholder Professor – Supervisor & Technical Guidance
+- A contact form
+- Dark, minimalistic design with soft glowing effects to reflect the theme of light and connection
+- Smooth scrolling navigation
+- Mobile-first responsive layout
+- Optional: subtle animations on scroll for each section
+
+Use semantic HTML, modern CSS (Flexbox/Grid), and comment the code for easy editing later.
