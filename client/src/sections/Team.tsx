@@ -4,7 +4,7 @@ const Team = () => {
       name: "Mohamed Sbeinati",
       role: "Developer",
       description: "Hardware, built website, full project collaboration.",
-      image: "/src/Mohamed.png"
+      image: "/src/Mohamed.jpeg"
     },
     {
       name: "Matteo Guzzi",
