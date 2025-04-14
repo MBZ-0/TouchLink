@@ -14,8 +14,7 @@ const Contact = () => {
             <div className="bg-card rounded-xl p-6 md:p-8 h-full shadow-md">
               <h3 className="text-xl font-heading font-bold text-foreground mb-4">Get In Touch</h3>
               <p className="text-muted-foreground mb-6">
-                We'd love to hear from you! Whether you have questions about the project, want to collaborate, 
-                or are interested in bringing TouchLink to another location, our team is here to help.
+                We'd love to hear from you! Whether you have questions about the project or want to collaborate!
               </p>
               
               <div className="space-y-6">
@@ -25,7 +24,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-heading font-semibold text-foreground">Location</h4>
-                    <p className="text-muted-foreground">University of Toronto, Department of Computer Science</p>
+                    <p className="text-muted-foreground">Bahen Centre for Information Technology located at 40 St George Street, Toronto, Ontario, in Room BA3200</p>
                   </div>
                 </div>
                 
@@ -35,7 +34,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-heading font-semibold text-foreground">Email</h4>
-                    <p className="text-muted-foreground">touchlink@cs.toronto.edu</p>
+                    <p className="text-muted-foreground">mohamed.sbeinati@mail.utoronto.ca</p>
                   </div>
                 </div>
                 
@@ -45,7 +44,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-heading font-semibold text-foreground">Demo Hours</h4>
-                    <p className="text-muted-foreground">April 15-20, 2024 | 10:00 AM - 6:00 PM</p>
+                    <p className="text-muted-foreground">April 25, 2025 | 3:00 PM - 6:00 PM</p>
                   </div>
                 </div>
               </div>
