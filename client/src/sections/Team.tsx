@@ -4,19 +4,19 @@ const Team = () => {
       name: "Mohamed Sbeinati",
       role: "Developer",
       description: "Hardware, built website, full project collaboration.",
-      image: "/src/Mohamed.jpeg"
+      image: "/Mohamed.jpeg"
     },
     {
       name: "Matteo Guzzi",
       role: "Developer",
       description: "Documentation, feedback, design, full project collaboration.",
-      image: "/src/Matteo.jpg"
+      image: "/Matteo.jpg"
     },
     {
       name: "Paul Dietz",
       role: "Supervisor & Technical Guidance",
       description: "Distinguished Engineer in Residence, University of Toronto. Provided technical guidance and project oversight.",
-      image: "/src/Paul.jpg"
+      image: "/Paul.jpg"
     }
   ];
 

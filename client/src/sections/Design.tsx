@@ -40,7 +40,7 @@ const Design = () => {
             <div className="rounded-lg overflow-hidden shadow-xl border border-primary/30 bg-card p-2">
               <div className="w-full h-full bg-background/50 rounded flex items-center justify-center relative">
                 <img
-                  src="/src/490_sketch.png"
+                  src="/490_sketch.png"
                   alt="LED Panel Design Sketch"
                   className="w-full h-full object-contain rounded"
                 />
